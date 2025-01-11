@@ -1,6 +1,9 @@
-<p align="center">
-  <img width="80%" alt="Hello, I'm Akhilesh Gupta" />
+ <p align="center">
+  <strong>
+    <span style="font-size: 24px;">🌟 Hello, I'm <span style="color: blue;">Akhilesh Gupta</span> 🌟</span>
+  </strong>
 </p>
+
 
 <br />
 
@@ -49,13 +52,13 @@ I'm a **self-taught passionate developer** from India 🇮🇳
 ### **Connect with Me**
 
 <p align="center">
-  <a href="mailto:akhileshgupta@gmail.com">
+  <a href="mailto:akhil.smile26@gmail.com">
     <img height="30" src="https://img.shields.io/badge/Email-e63946?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/akhileshgupta">
+  <a href=" linkedin.com/in/akhilesh-gupta-135312299">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-e63946?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/akhileshgupta">
+  <a href=" https://github.com/Akhil000026
     <img height="30" src="https://img.shields.io/badge/GitHub-e63946?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
