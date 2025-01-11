@@ -10,8 +10,8 @@
 I'm a **self-taught passionate developer** from India 🇮🇳
 
 ### **About Me**
-
-- 🎓 2nd-year B.Tech student at GCET  
+-🔭 I’m currently working on app development
+- 🎓 DSA Problem Solver on leetcode  
 - 💼 Building solutions as an app and web developer  
 - 🌟 Creator of Kisan Setu, connecting farmers to markets  
 - 📚 Exploring backend development and Kotlin for app development  
@@ -55,7 +55,7 @@ I'm a **self-taught passionate developer** from India 🇮🇳
   <a href="mailto:akhil.smile26@gmail.com">
     <img height="30" src="https://img.shields.io/badge/Email-e63946?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href=" linkedin.com/in/akhilesh-gupta-135312299">
+  <a href="linkedin.com/in/akhilesh-gupta-135312299">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-e63946?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href=" https://github.com/Akhil000026
