@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" alt="Hello, I'm Akhilesh Gupta" src="https://your-banner-image-link" />
+  <img width="80%" alt="Hello, I'm Akhilesh Gupta" />
 </p>
 
 <br />
@@ -10,7 +10,7 @@ I'm a **self-taught passionate developer** from India 🇮🇳
 
 - 🎓 2nd-year B.Tech student at GCET  
 - 💼 Building solutions as an app and web developer  
-- 🌟 Creator of [Kisan Setu](https://github.com/akhileshgupta/kisan-setu), connecting farmers to markets  
+- 🌟 Creator of Kisan Setu, connecting farmers to markets  
 - 📚 Exploring backend development and Kotlin for app development  
 - 💬 Ask me about anything [here](https://github.com/akhileshgupta/akhileshgupta/issues)  
 
@@ -61,10 +61,7 @@ I'm a **self-taught passionate developer** from India 🇮🇳
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://your-footer-pixel-art" alt="Footer Pixel Art" width="100%" />
-</p>
+ 
 # akhileshgupta
 
 
