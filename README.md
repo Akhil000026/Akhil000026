@@ -66,7 +66,7 @@
 ## 🎯 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/akhileshgupta/kisan-setu">
+  <a href="https://github.com/Akhil000026/MoodTune.git">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=akhileshgupta&repo=kisan-setu&bg_color=000000&title_color=e63946&text_color=ffffff&icon_color=e63946&hide_border=true" />
   </a>
   <a href="https://github.com/akhileshgupta/child-welfare">
