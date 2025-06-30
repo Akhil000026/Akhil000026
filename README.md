@@ -15,7 +15,7 @@
 -  DSA problem solver on LeetCode
 -  Building solutions as an app and web developer
 -  Exploring backend, cloud, and AI/ML
--  <a href="https://github.com/akhileshgupta/akhileshgupta/issues" style="text-decoration:none;"><img src="https://img.shields.io/badge/Open%20to%20collaborate-000000?style=for-the-badge&logo=Handshake&logoColor=e63946&labelColor=000000" alt="Open to Collaborate" /></a>
+-  <a href="https://github.com/Akhil000026/Akhil000026/issues" style="text-decoration:none;"><img src="https://img.shields.io/badge/Open%20to%20collaborate-000000?style=for-the-badge&logo=Handshake&logoColor=e63946&labelColor=000000" alt="Open to Collaborate" /></a>
 
 ---
 
