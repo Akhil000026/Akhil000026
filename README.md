@@ -34,7 +34,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhileshgupta&theme=onedark&no-frame=true&title=MultiLanguage,Stars,Commits,Followers,Repositories&margin-w=10&margin-h=10&no-bg=true&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Akhil000026&theme=onedark&no-frame=true&title=MultiLanguage,Stars,Commits,Followers,Repositories&margin-w=10&margin-h=10&no-bg=true&column=3" />
 </p>
 
 ---
