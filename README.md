@@ -40,17 +40,18 @@
 ---
 
   ## 📊 GitHub Stats
-
-<table align="center">
+ <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=akhileshgupta&show_icons=true&bg_color=000000&title_color=e63946&text_color=ffffff&icon_color=e63946&hide_border=true&border_radius=10&custom_title=Akhilesh's+GitHub+Stats" height="150" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Akhil000026&show_icons=true&bg_color=000000&title_color=e63946&text_color=ffffff&icon_color=e63946&hide_border=true&border_radius=10&custom_title=Akhilesh%27s+GitHub+Stats" height="150" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhileshgupta&theme=black-ice&hide_border=true&stroke=e63946&ring=e63946&currStreakLabel=e63946&currStreakNum=ffffff&sideLabels=ffffff&sideNums=e63946" height="150" />
+      <img src="https://streak-stats.demolab.com/?user=Akhil000026&theme=black-ice&hide_border=true&stroke=e63946&ring=e63946&currStreakLabel=e63946&currStreakNum=ffffff&sideLabels=ffffff&sideNums=e63946" height="150" />
     </td>
   </tr>
 </table>
+
+
 
 ---
 
